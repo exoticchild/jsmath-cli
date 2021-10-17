@@ -2,6 +2,7 @@
   "name": "jsmath-cli",
   "version": "0.0.1",
   "description": "A CLI for Javascript math functions",
+  "repository": "exoticchild/jsmath-cli",
   "main": "./bin/index.js",
   "bin": {
     "jsmath": "./bin/index.js"
