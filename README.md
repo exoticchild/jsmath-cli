@@ -68,4 +68,5 @@ jsmath trunc 1
 #gives the number with all the decimals cut off (just the whole number portion of a rational number and is basically the same as floor unless it is a negative number) and returns 1
 ```
 For more information on each function, I suggest you look at Mozilla's website on them (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) to get a better understanding. Enjoy!
+<br>
 *v0.0.1*
