@@ -4,4 +4,6 @@ var options = ["abs", "acos", "acosh", "asin", "asinh", "atan", "atanh", "cbrt",
 if (options.includes(process.argv[2])) {
     //@ts-ignore
     console.log(eval("Math." + process.argv[2] + "(" + process.argv[3] + ")"));
+} else {
+    console.log("Invalid option");
 }
